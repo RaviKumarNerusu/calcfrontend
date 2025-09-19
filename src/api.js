@@ -1,4 +1,4 @@
-export const BASEURL = "http://13.233.214.236:8080/calc1/";
+export const BASEURL = "http://3.107.241.143:8080/";
 export function callApi(reqmethod, url, data, responseHandler)
 {
     let options = "";
